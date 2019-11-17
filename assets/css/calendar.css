@@ -8,7 +8,6 @@
 }
 
 .td-calMiddle {
-    background-color: bisque;
     vertical-align: middle;
     text-align: center;
     height: 80px;
@@ -28,7 +27,6 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-
 a {
     display: block;
     height: 100%;
@@ -38,4 +36,15 @@ a {
 
 a.btn {
     background-color: lightseagreen;
+}
+
+.myTextArea {
+    display: block;
+    height: 100%;
+    width: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.divFloat {
+    z-index: 1001;
 }

@@ -1,4 +1,4 @@
-//! moment.js
+//! moment.js  Software Data to run momentsjs
 
 ;(function (global, factory) {
     typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
